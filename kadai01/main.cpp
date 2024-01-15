@@ -9,7 +9,7 @@ int main(int argc, char* argv[]){
   cv::Mat img = cv::imread("circle.png");
 
   int x_size = img.cols;
-  int y_size = img.rows ;
+  int y_size = img.rows;
   int i, j;
   int count = 0;
 
